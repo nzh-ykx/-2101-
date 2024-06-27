@@ -1,0 +1,48 @@
+{
+  "computerList": [
+    {
+      "planID": "1",
+      "cpu": "Intel 酷睿 i5 12490F",
+      "cpuPrice": "1280",
+      "motherBorad": "华硕TUF GAMING B550M-PLUS WIFI II",
+      "motherBoradPrice": "849",
+      "case1": "乔思伯CR-1200E",
+      "case1Price": "39",
+      "cooler": "ProArtist B3 PRO",
+      "coolerPrice": "104",
+      "graphics_card": "技嘉RTX 4060 风魔 OC",
+      "graphics_cardPrice": "2399",
+      "hardDisk": "西部数据蓝盘 1TB 7200转 64MB SATA3（WD10EZEX）",
+      "hardDiskPrice": "270",
+      "memory": "金士顿FURY Beast 8GB DDR5 6000（KF560C40BB-8）",
+      "memoryPrice": "259",
+      "monitor": "AOC U27U2",
+      "monitorPrice": "3099",
+      "powersupply": "海韵FOCUS GX-1000",
+      "powersupplyPrice": "1299",
+      "totalPrice": "9597"
+    },
+    {
+      "planID": "2",
+      "cpu": "AMD Ryzen 5 5600G",
+      "cpuPrice": "1599",
+      "motherBorad": "华硕PRIME B650M-K",
+      "motherBoradPrice": "1099",
+      "case1": "乔思伯CR-1200E",
+      "case1Price": "39",
+      "cooler": "ProArtist GA5",
+      "coolerPrice": "699",
+      "graphics_card": "微星GeForce RTX 4060 Ti VENTUS 3X 16G OC",
+      "graphics_cardPrice": "2699",
+      "hardDisk": "西部数据蓝盘 2TB 5400转 256MB SATA3（WD20EZAZ）",
+      "hardDiskPrice": "330",
+      "memory": "英睿达16GB DDR5 5600 笔记本内存条",
+      "memoryPrice": "300",
+      "monitor": "HKC S2716Q",
+      "monitorPrice": "1199",
+      "powersupply": "航嘉MVP K850X",
+      "powersupplyPrice": "859",
+      "totalPrice": "9822"
+    }
+  ]
+}
